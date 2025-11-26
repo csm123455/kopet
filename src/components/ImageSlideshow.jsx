@@ -5,7 +5,6 @@ import './ImageSlideshow.css'
 const images = [
   '/dogphoto/1.jpg',
   '/dogphoto/2.jpg',
-  '/dogphoto/3.jpg',
   '/dogphoto/4.jpg',
   '/dogphoto/5.jpg',
 ]
